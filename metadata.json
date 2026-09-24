@@ -1,0 +1,8 @@
+{
+  "name": "StudyMate AI – Smart Study & Quiz Assistant",
+  "description": "Turn your study notes into interactive study guides, customizable AI quizzes, instant scoring, topic revision lists, and a friendly AI study tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
