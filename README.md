@@ -4,6 +4,9 @@
 
 **StudyMate AI** is a full-stack, AI-powered academic learning companion that transforms raw, passive study notes into an interactive, high-yield mastery experience. Designed for students facing information overload, StudyMate AI extracts structured summaries, generates customizable multiple-choice quizzes with comprehensive rationales, tracks revision topics in a live analytics dashboard, and provides a student-friendly 24/7 AI tutor grounded directly in study notes.
 
+**To Use The StudyMate-AI App**
+
+https://studymate-ai-2-mfoo.onrender.com/
 ---
 
 ## 🚀 Problem It Solves
